@@ -1,5 +1,5 @@
-feature A
-feature B
 feature C
+feature B
+feature A
 feature D
 feature F
